@@ -43,3 +43,7 @@ Usual advice about >80% test coverage is not a good one. Your ideal coverage dep
 * [duplication is far cheaper than the wrong abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction?duplication)
     - [DRY vs WET](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
 
+# Javascript for Machine Learning
+
+* [An Overview - written for Python programmers, but has good resources to get started irrespective of your Python knowledge](https://www.fullstackpython.com/javascript.html)
+* [Javascript for Python programmers](https://mike.depalatis.net/blog/javascript-for-python-programmers.html)
